@@ -36,6 +36,8 @@ The analysis application was built using Python 3.10.15 and leverages a powerful
 * The model achieved a final validation accuracy of 88.71%.
 * The overall final accuracy was 91.44%.
 * **Proof of Concept:** A random test of 57 images (52 from the web and 5 from ground research) achieved a true-positive output for 44 images.
+* <img width="825" height="735" alt="image" src="https://github.com/user-attachments/assets/8ba41bf5-a891-4b65-a0dd-ee99d451ba9d" />
+
 
 ## Limitations
 * **Lack of Full Integration:** There is currently an absence of integration between the drone hardware and the software engine, meaning the workflow remains manual.
